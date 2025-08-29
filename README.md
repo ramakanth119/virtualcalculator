@@ -1,0 +1,1 @@
+A simple Virtual Calculator built using Python and Tkinter. This project provides a graphical user interface (GUI) to perform basic arithmetic operations such as addition, subtraction, multiplication, and division
